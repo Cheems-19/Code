@@ -1,0 +1,22 @@
+# ninja log v5
+5	171	7286695709523647	test3_autogen/timestamp	886a0f5c1f350a05
+5	171	7286695709523647	test3_autogen/mocs_compilation.cpp	886a0f5c1f350a05
+167	1823	7286691546954873	CMakeFiles/test3.dir/main.cpp.obj	c84b1143b9640691
+5	171	7286695709523647	D:/Code/Qt/build-test3-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test3_autogen/timestamp	886a0f5c1f350a05
+5	171	7286695709523647	D:/Code/Qt/build-test3-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test3_autogen/mocs_compilation.cpp	886a0f5c1f350a05
+173	2425	7286695732002022	CMakeFiles/test3.dir/mainwindow.cpp.obj	87cd7536a02bb2b2
+471	2841	7286686502837305	CMakeFiles/test3.dir/test3_autogen/mocs_compilation.cpp.obj	cafd15b8cd0e08b3
+2426	2571	7286695733212201	test3.exe	ea4249048da151e
+7	357	7289225567503288	test3_autogen/timestamp	886a0f5c1f350a05
+7	357	7289225567503288	test3_autogen/mocs_compilation.cpp	886a0f5c1f350a05
+7	357	7289225567503288	D:/Code/Qt/build-test3-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test3_autogen/timestamp	886a0f5c1f350a05
+7	357	7289225567503288	D:/Code/Qt/build-test3-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test3_autogen/mocs_compilation.cpp	886a0f5c1f350a05
+357	2287	7289225587962663	CMakeFiles/test3.dir/test3_autogen/mocs_compilation.cpp.obj	cafd15b8cd0e08b3
+361	2670	7289225591788154	CMakeFiles/test3.dir/mainwindow.cpp.obj	87cd7536a02bb2b2
+2670	2914	7289225593818940	test3.exe	ea4249048da151e
+4	186	7289225970909092	test3_autogen/timestamp	886a0f5c1f350a05
+4	186	7289225970909092	test3_autogen/mocs_compilation.cpp	886a0f5c1f350a05
+4	186	7289225970909092	D:/Code/Qt/build-test3-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test3_autogen/timestamp	886a0f5c1f350a05
+4	186	7289225970909092	D:/Code/Qt/build-test3-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test3_autogen/mocs_compilation.cpp	886a0f5c1f350a05
+188	2430	7289225993333128	CMakeFiles/test3.dir/mainwindow.cpp.obj	87cd7536a02bb2b2
+2431	2576	7289225994540084	test3.exe	ea4249048da151e

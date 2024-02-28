@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a170b4da85156b4a0da6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test4-Debug-31e56e733aae457f80a1.json",
+					"name" : "test4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test4_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test4_autogen-Debug-b6fa9fa8320589892a3e.json",
+					"name" : "test4_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test4_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test4_autogen_timestamp_deps-Debug-0cd8851cd4c1be8f4a0e.json",
+					"name" : "test4_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Code/Qt/build-test4-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug",
+		"source" : "D:/Code/Qt/test4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "D:/Code/Qt/build-test1-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test1_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Code/Qt/build-test1-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Code/Qt/build-test1-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Code/Qt/test1",
+	"CMAKE_SOURCE_DIR" : "D:/Code/Qt/test1",
+	"INCLUDE_DIR" : "D:/Code/Qt/build-test1-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test1_autogen/include",
+	"INPUTS" : [ "C:/Users/Administrator/Desktop/\u5723\u8bde\u96ea\u82b1.png" ],
+	"LOCK_FILE" : "D:/Code/Qt/build-test1-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/CMakeFiles/test1_autogen.dir/AutoRcc_icons_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "icons" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_icons.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.6.0/msvc2019_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Code/Qt/build-test1-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/CMakeFiles/test1_autogen.dir/AutoRcc_icons_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Code/Qt/test1/icons.qrc",
+	"VERBOSITY" : 0
+}

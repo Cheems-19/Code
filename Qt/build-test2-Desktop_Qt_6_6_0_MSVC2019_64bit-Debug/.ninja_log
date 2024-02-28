@@ -1,0 +1,17 @@
+# ninja log v5
+4	458	7284989493398134	test2_autogen/timestamp	66d3f44a9361feea
+4	458	7284989493398134	D:/Code/Qt/build-test2-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test2_autogen/mocs_compilation.cpp	66d3f44a9361feea
+461	2132	7284989511836672	CMakeFiles/test2.dir/main.cpp.obj	a8fee3366303a514
+4	458	7284989493398134	test2_autogen/mocs_compilation.cpp	66d3f44a9361feea
+463	2176	7284989512286773	CMakeFiles/test2.dir/maindialog.cpp.obj	95ad66e03f0af5a1
+4	458	7284989493398134	D:/Code/Qt/build-test2-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test2_autogen/timestamp	66d3f44a9361feea
+458	2133	7284989511856675	CMakeFiles/test2.dir/test2_autogen/mocs_compilation.cpp.obj	9da3528f566cedd3
+2177	2388	7284989514297347	test2.exe	5ce1fb33affa155b
+5	283	7284991777428275	test2_autogen/timestamp	66d3f44a9361feea
+5	283	7284991777428275	test2_autogen/mocs_compilation.cpp	66d3f44a9361feea
+5	283	7284991777428275	D:/Code/Qt/build-test2-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test2_autogen/timestamp	66d3f44a9361feea
+5	283	7284991777428275	D:/Code/Qt/build-test2-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test2_autogen/mocs_compilation.cpp	66d3f44a9361feea
+285	1629	7284991791793734	CMakeFiles/test2.dir/main.cpp.obj	a8fee3366303a514
+284	1630	7284991791801574	CMakeFiles/test2.dir/test2_autogen/mocs_compilation.cpp.obj	9da3528f566cedd3
+287	1635	7284991791841591	CMakeFiles/test2.dir/childdialog.cpp.obj	ddc9ce65a34165c8
+1635	1776	7284991793001851	test2.exe	60d02438825e05d4

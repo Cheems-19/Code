@@ -1,0 +1,21 @@
+# ninja log v5
+4	146	7284981507603764	test1_autogen/timestamp	a0b1381b5d2c1bbe
+440	2674	7284977828354281	CMakeFiles/test1.dir/test1_autogen/mocs_compilation.cpp.obj	4cceaf90f8e4321f
+1755	1866	7284981524569673	test1.exe	6a43b6efe16473b2
+283	324	7283217986890342	D:/Code/Qt/build-test1-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test1_autogen/EWIEGA46WW/qrc_icons.cpp	80c7bb63a063f960
+4	146	7284981507603764	test1_autogen/mocs_compilation.cpp	a0b1381b5d2c1bbe
+4	146	7284981507603764	D:/Code/Qt/build-test1-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test1_autogen/timestamp	a0b1381b5d2c1bbe
+177	2013	7284981045122082	CMakeFiles/test1.dir/mainwindow.cpp.obj	f95c5a90ea31a1ea
+4	146	7284981507603764	D:/Code/Qt/build-test1-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test1_autogen/mocs_compilation.cpp	a0b1381b5d2c1bbe
+147	1754	7284981523658174	CMakeFiles/test1.dir/main.cpp.obj	84a8aea0ac2a3378
+283	324	7283217986890342	test1_autogen/EWIEGA46WW/qrc_icons.cpp	80c7bb63a063f960
+329	787	7283217991520954	CMakeFiles/test1.dir/test1_autogen/EWIEGA46WW/qrc_icons.cpp.obj	f532878b4e7619f0
+2	21	0	CMakeFiles/clean.additional	adcc2f785672e3a3
+21	26	0	clean	907c69b8a9504e68
+406	2080	7284963994288235	CMakeFiles/test1.dir/childdialog.cpp.obj	16bdaf0caacd3e67
+5	147	7284981955946839	test1_autogen/timestamp	a0b1381b5d2c1bbe
+5	147	7284981955946839	test1_autogen/mocs_compilation.cpp	a0b1381b5d2c1bbe
+5	147	7284981955946839	D:/Code/Qt/build-test1-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test1_autogen/timestamp	a0b1381b5d2c1bbe
+5	147	7284981955946839	D:/Code/Qt/build-test1-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/test1_autogen/mocs_compilation.cpp	a0b1381b5d2c1bbe
+149	1879	7284981973222253	CMakeFiles/test1.dir/main.cpp.obj	84a8aea0ac2a3378
+1879	2007	7284981974239433	test1.exe	6a43b6efe16473b2
